@@ -1,0 +1,15 @@
+.search-wrapper {
+  display: flex;
+  margin-left: 4.5em;
+}
+
+.search-bar {
+  width: 600px;
+  height: 31px;
+  color: #cdcdcd;
+  border: 1px solid #303030;
+  outline: none;
+  padding: 10px;
+  line-height: 24px;
+  font-size: 16px;
+}
